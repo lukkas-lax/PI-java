@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+  padding-top: 50px;
+}
+
+.labelBemVindo{
+    margin-top: 15px;
+    margin-left: 130px;
+    
+}
+
+.labelBemVindo p{
+	color: yellow;
+}
+
+.actions{
+	text-align: right;
+}
+
